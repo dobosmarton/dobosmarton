@@ -1,21 +1,20 @@
-## Hi, I am Marton 👋
+### Hi, I am Marton 👋
 
-I am a Full-stack developer from Hungary 🇭🇺. My favorite technology stack in the web world is based on an **SQL database** with a lightweight **NodeJS** backend framework. I am a huge **[@prisma](https://github.com/prisma/prisma)** fan, so I would pick that as an ORM and a top of these I would build a nice and shiny GraphQL API layer with **TypeGraphQL** and **Apollo**. On the front-end, my favorite tool is **NextJS** with a nice front-end GraphQL client, like Apollo Client. The whole backend and front-end application would be definitely **Typescript-based**. These are my favorite tools to build awesome web applications but of course there are many more tools that would be required to build a complete product with an excellent developer experience.
+I'm glad you're here, let's see some facts about me as an introduction
+
+ - I'm from Hungary 🇭🇺
+ - I'm a coder - _implementing nice architectures and writing code literally makes me happy_
+ - I'm an explorer - _hmm, a new tool? Awesome!_
+ - Currently I am working on full-stack web applications with **NodeJS** and **React**
+ - I am learning blockchain technology and Rust 🎓 - _love the hype_
+ - Web3 and blockchain have great potential but it won't kill the current technologies 🤓
+ - Football and gym are my calm islands ⚽️
+ - You can read more [here](https://martondobos.hashnode.dev/) about tech tutorials, tools, and random tech-related stuff.
 <br/><br/>
 
-### 📖 [My blog](https://martondobos.hashnode.dev/)
+### What you can find here?
 
-Read about tech tutorials, tools, and random tech-related stuff.
+Mostly home projects and tech challenges.  I am always searching the Saint Graal of the software development trying out new programming languages, new tools. I belive the best way to learn something is to build something with it, so my repos are about different experiences. 
 <br/><br/>
-
-### 🎮 My passions
-
-- Webdev
-- Shiny, new technologies 🚀
-- Science
-- Blockchain, crypto
-- Books (about tech, business, life)
-- Workout, football ⚽️
-  <br/><br/>
 
 Feel free to contact me on [Twitter](https://twitter.com/marton_dobos) or [LinkedIn](https://www.linkedin.com/in/marton-dobos/)! ✌️
